@@ -1,5 +1,5 @@
 import { TestBed } from '@angular/core/testing';
-import { EventsAppComponent } from './events/events-app.component';
+import { EventsAppComponent } from './events-app.component';
 
 describe('AppComponent', () => {
   beforeEach(async () => {
